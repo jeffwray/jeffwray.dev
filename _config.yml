@@ -24,7 +24,7 @@ linkedin_username: jeffwray
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hello, my name’s Jeff, I’m a Senior Full-Stack Developer. As well as developing software, I have experience in managing remote development teams. I have extensive experience in delivering enterprise-ready web and mobile projects in the following industries: healthcare, hospitality, loyalty, oil/gas, entertainment, non-profits, and retail. 
+ Hello, my name’s Jeff, I’m a Senior Full-Stack Developer. As well as developing software, I have experience in managing remote development teams. I have extensive experience in delivering enterprise-ready web and mobile projects in the following industries: healthcare, hospitality, loyalty, oil/gas, entertainment, non-profits, and retail. 
   I am most skilled in: <mark>API Development</mark>, <mark>Laravel</mark>, <mark>MySQL</mark>, <mark>Apache Cordova/PhoneGap</mark> and <mark>AWS</mark>
 
 # Projects Section
