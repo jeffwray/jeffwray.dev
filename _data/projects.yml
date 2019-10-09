@@ -1,8 +1,26 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: mzCONNECT API (2009 - Present)
+  link: mobilozophy.com/product/mobile-marketing-apis-and-sdks/
+  #  github: sproogen/resume-theme
+  quote: |
+    Technologies Used: <mark>CodeIgniter (now deprecated)</mark>, <mark>Laravel/Lumen</mark>, <mark>Amazon Web Services (AWS)</mark>, <mark>Various API Integrations</mark>, <mark>NGINX</mark>, , <mark>Linux</mark>, <mark>MySQL</mark>
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Cloud-based mobile marketing solution for small to large businesses that helps connect and engage with customers
+    through SMS, mobile apps, coupons, loyalty programs, and more.
+    ## Principal API Architect of:
+    - Mobile Coupon API
+    - Redemption API
+    - SMS Marketing API
+    - User Management API
+    - Subscription Management API
+    - Location API
+- layout: top-middle
+  name: Winnie Coture Mobile Website (2010-2012)
+#  link: github.com/sproogen
+#  github: sproogen/resume-theme
+  quote: |
+    Technologies Used: <mark>WordPress</mark>, <mark>jQuery</mark>, <mark>API Integration</mark>
+  description: | # this will include new lines to allow paragraphs
+    Designed and implemented a mobile version of Winnie Couture Website. Built various custom <mark>WordPress</mark> plugins that handled images, photo gallery, store locator with <mark>API</mark> integration to Mobilozophy’s mzCONNECT Store Locator API.
+
+    ![](/images/winnie1.png)
